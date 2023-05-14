@@ -7,7 +7,7 @@ let package = Package(
 	
     name: "WebMIDIKit",
 	
-	platforms: [.macOS(.v10_15), .iOS(.v16_2)],
+	platforms: [.macOS(.v10_15), .iOS(.v16)],
 //    platforms: [.macOS(.v11)]
 	
 	products: [
